@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RRTRapidResponseTeam/rrt-portal.git/static/css/main.a4c088b3.css",
+    "main.js": "/RRTRapidResponseTeam/rrt-portal.git/static/js/main.c4ef463f.js",
+    "index.html": "/RRTRapidResponseTeam/rrt-portal.git/index.html",
+    "main.a4c088b3.css.map": "/RRTRapidResponseTeam/rrt-portal.git/static/css/main.a4c088b3.css.map",
+    "main.c4ef463f.js.map": "/RRTRapidResponseTeam/rrt-portal.git/static/js/main.c4ef463f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4c088b3.css",
+    "static/js/main.c4ef463f.js"
+  ]
+}
